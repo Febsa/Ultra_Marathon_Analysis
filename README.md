@@ -1,6 +1,5 @@
 # Ultra Marathon Analysis
 
-![Ultra Marathon]
 
 ## Deskripsi Proyek
 Proyek ini adalah analisis data tentang Ultra Marathon running menggunakan dataset yang ditemukan di Kaggle. Analisis ini bertujuan untuk mendapatkan wawasan tentang berbagai aspek ultra marathon, termasuk jarak tempuh, waktu yang diperlukan, dan karakteristik lainnya dari peserta.
